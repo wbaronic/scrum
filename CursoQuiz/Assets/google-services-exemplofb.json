@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569824656555",
+    "firebase_url": "https://exemploacademiaunity-a90d9-default-rtdb.firebaseio.com",
+    "project_id": "exemploacademiaunity-a90d9",
+    "storage_bucket": "exemploacademiaunity-a90d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569824656555:android:72bacdcc39131ac6f74bee",
+        "android_client_info": {
+          "package_name": "br.com.baroni.exemplofbau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569824656555-3o4isjqvj5ruh9tjbp2peqib2m2am654.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Mwj214zE96z3FUCj1ITEVY1PchmcNzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569824656555-3o4isjqvj5ruh9tjbp2peqib2m2am654.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
